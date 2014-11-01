@@ -1,6 +1,6 @@
 <?php
 
-namespace Exogenesick\SimpleServiceBundle;
+namespace Exogenesick\ExternalVendorBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
