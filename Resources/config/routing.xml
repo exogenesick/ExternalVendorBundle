@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://symfony.com/schema/routing http://symfony.com/schema/routing/routing-1.0.xsd">
 
-    <route id="exogenesick_external_vendor_homepage" path="/exogenesick/external/vendor/homepage">
+    <route id="exogenesick_external_vendor_homepage" path="/external-vendor-bundle">
         <default key="_controller">ExogenesickExternalVendorBundle:Homepage:index</default>
     </route>
 </routes>

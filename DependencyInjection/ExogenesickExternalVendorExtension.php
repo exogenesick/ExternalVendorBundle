@@ -1,6 +1,6 @@
 <?php
 
-namespace Exogenesick\SimpleServiceBundle\DependencyInjection;
+namespace Exogenesick\ExternalVendorBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
