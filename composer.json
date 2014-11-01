@@ -1,5 +1,5 @@
 {
-    "name": "exogenesick/simple-service",
+    "name": "exogenesick/external-vendor-bundle",
     "description": "Symfony2 vendor bundle example",
     "type": "symfony-bundle",
     "authors": [{
@@ -11,8 +11,8 @@
     },
     "autoload": {
         "psr-0" : {
-            "Prism\\SimpleServiceBundle" : ""
+            "Exogenesick\\ExternalVendorBundle" : ""
         }
     },
-    "target-dir" : "Prism/SimpleServiceBundle"
+    "target-dir" : "Exogenesick/ExternalVendorBundle"
 }
